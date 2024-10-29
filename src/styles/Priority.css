@@ -1,0 +1,31 @@
+.priority-filter-bar {
+  display: flex;
+  align-items: center;
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.priority-item {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  font-size: 14px;
+  color: #333;
+}
+
+.priority-icon {
+  margin-right: 5px;
+}
+
+.priority-label {
+  margin-right: 5px;
+}
+
+.priority-count {
+  background-color: #e0e0e0;
+  color: #555;
+  padding: 3px 6px;
+  border-radius: 12px;
+  font-size: 12px;
+}
